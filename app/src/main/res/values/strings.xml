@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">iris</string>
+    <string name="petallength">petallength</string>
+    <string name="petal_width">petal_width</string>
+    <string name="sepal_length">sepal_length</string>
+    <string name="sepal_widths">sepal_widths</string>
+    <string name="button">button</string>
+    <string name="textview">textview</string>
+</resources>
